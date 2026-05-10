@@ -58,6 +58,8 @@ When motion is detected by the sensor, the Raspberry Pi captures a photo automat
 - Raspberry Pi processes motion detection and triggers photo capture
 
 <img src="https://github.com/user-attachments/assets/9e7d42e7-b53a-4199-b1c6-fbd3f716d0f3" width="400"/>
+## IDE / Terminal
+<img src="https://github.com/user-attachments/assets/0defceaa-064f-4aca-8b4e-83ab119bde2f" width="400" />
 
 ---
 ## 🎥 Video
