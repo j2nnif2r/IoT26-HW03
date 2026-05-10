@@ -71,12 +71,6 @@ When motion is detected by the sensor, the Raspberry Pi captures a photo automat
 
 ## 💻 Code
 ```python
-# Add your HW3 source code here
-
----
-
-## Code
-```python
 #Project 13 - Burglar Detector With Photo Capture
 #latest code updates available at: https://github.com/RuiSantosdotme/RaspberryPiProject
 #project updates at: https://nostarch.com/RaspberryPiProject
