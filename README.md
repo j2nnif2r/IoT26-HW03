@@ -57,7 +57,7 @@ When motion is detected by the sensor, the Raspberry Pi captures a photo automat
 - Camera module connected to Raspberry Pi camera interface
 - Raspberry Pi processes motion detection and triggers photo capture
 
-<img width="3024" height="4032" alt="KakaoTalk_20260510_222117261" src="https://github.com/user-attachments/assets/9e7d42e7-b53a-4199-b1c6-fbd3f716d0f3" />
+<img src="https://github.com/user-attachments/assets/9e7d42e7-b53a-4199-b1c6-fbd3f716d0f3" width="400"/>
 
 ---
 ## 🎥 Video
