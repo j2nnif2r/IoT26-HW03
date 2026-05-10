@@ -1,4 +1,4 @@
-# IoT26-HW01
+# IoT26-HW03
 Gachon Univ. IoT Team F HW03
 
 ## Project Overview
