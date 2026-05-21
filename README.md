@@ -1,34 +1,4 @@
 # IoT26-HW03
-Gachon Univ. IoT Team F HW03
-
-## Project Overview
-This project demonstrates a Raspberry Pi motion detector system with photo capture.  
-When motion is detected by the sensor, the Raspberry Pi captures a photo automatically.
-
----
-
-## Objective
-- Detect motion using Raspberry Pi
-- Capture photos when motion is detected
-- Practice GPIO control and camera-based IoT interaction
-
----
-
-## Hardware Setup
-- Raspberry Pi
-- Breadboard
-- Motion sensor
-- Camera module
-- Jumper wires
-
----
-
-## Circuit
-- Motion sensor connected to Raspberry Pi GPIO input pin
-- Camera module connected to Raspberry Pi camera interface
-- Raspberry Pi processes motion detection and triggers photo capture
-
-# IoT26-HW03
 
 ## 📖 Project Overview
 This project demonstrates a Raspberry Pi motion detector system with photo capture.  
